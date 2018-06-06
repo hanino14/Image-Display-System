@@ -1,0 +1,29 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  OpenGL_on_a_Windows_Form.cpp
+c:\users\hassan\desktop\programs\visual studio 2017\source\dicom2 project\opengl_on_a_windows_formneil\opengl_on_a_windows_form\OpenGL.h(13): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\hassan\desktop\programs\visual studio 2017\source\dicom2 project\opengl_on_a_windows_formneil\opengl_on_a_windows_form\OpenGL.h(37): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\hassan\desktop\programs\visual studio 2017\source\dicom2 project\opengl_on_a_windows_formneil\opengl_on_a_windows_form\OpenGL.h(37): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\hassan\desktop\programs\visual studio 2017\source\dicom2 project\opengl_on_a_windows_formneil\opengl_on_a_windows_form\OpenGL.h(38): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\hassan\desktop\programs\visual studio 2017\source\dicom2 project\opengl_on_a_windows_formneil\opengl_on_a_windows_form\OpenGL.h(38): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\hassan\desktop\programs\visual studio 2017\source\dicom2 project\opengl_on_a_windows_formneil\opengl_on_a_windows_form\OpenGL.h(39): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\hassan\desktop\programs\visual studio 2017\source\dicom2 project\opengl_on_a_windows_formneil\opengl_on_a_windows_form\OpenGL.h(39): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\hassan\desktop\programs\visual studio 2017\source\dicom2 project\opengl_on_a_windows_formneil\opengl_on_a_windows_form\OpenGL.h(40): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\hassan\desktop\programs\visual studio 2017\source\dicom2 project\opengl_on_a_windows_formneil\opengl_on_a_windows_form\OpenGL.h(40): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\hassan\desktop\programs\visual studio 2017\source\dicom2 project\opengl_on_a_windows_formneil\opengl_on_a_windows_form\OpenGL.h(79): warning C4101: 'hinst': unreferenced local variable
+c:\users\hassan\desktop\programs\visual studio 2017\source\dicom2 project\opengl_on_a_windows_formneil\opengl_on_a_windows_form\OpenGL.h(79): warning C4101: 'hinstance': unreferenced local variable
+c:\users\hassan\desktop\programs\visual studio 2017\source\dicom2 project\opengl_on_a_windows_formneil\opengl_on_a_windows_form\OpenGL.h(80): warning C4101: 'dw': unreferenced local variable
+c:\users\hassan\desktop\programs\visual studio 2017\source\dicom2 project\opengl_on_a_windows_formneil\opengl_on_a_windows_form\OpenGL.h(197): warning C4101: 'stPixelFormatDescriptor': unreferenced local variable
+c:\users\hassan\desktop\programs\visual studio 2017\source\dicom2 project\opengl_on_a_windows_formneil\opengl_on_a_windows_form\OpenGL.h(198): warning C4101: 'hContext_i': unreferenced local variable
+c:\users\hassan\desktop\programs\visual studio 2017\source\dicom2 project\opengl_on_a_windows_formneil\opengl_on_a_windows_form\OpenGL.h(452): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\hassan\desktop\programs\visual studio 2017\source\dicom2 project\opengl_on_a_windows_formneil\opengl_on_a_windows_form\OpenGL.h(533): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\hassan\desktop\programs\visual studio 2017\source\dicom2 project\opengl_on_a_windows_formneil\opengl_on_a_windows_form\Form1.h(635): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hassan\desktop\programs\visual studio 2017\source\dicom2 project\opengl_on_a_windows_formneil\opengl_on_a_windows_form\Form1.h(641): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hassan\desktop\programs\visual studio 2017\source\dicom2 project\opengl_on_a_windows_formneil\opengl_on_a_windows_form\Form1.h(645): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hassan\desktop\programs\visual studio 2017\source\dicom2 project\opengl_on_a_windows_formneil\opengl_on_a_windows_form\Form1.h(651): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\hassan\desktop\programs\visual studio 2017\source\dicom2 project\opengl_on_a_windows_formneil\opengl_on_a_windows_form\Form1.h(693): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+c:\users\hassan\desktop\programs\visual studio 2017\source\dicom2 project\opengl_on_a_windows_formneil\opengl_on_a_windows_form\opengl.h(618): warning C4715: 'ReadFile': not all control paths return a value
+c:\users\hassan\desktop\programs\visual studio 2017\source\dicom2 project\opengl_on_a_windows_formneil\opengl_on_a_windows_form\form1.h(711): warning C4715: 'getrot': not all control paths return a value
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  OpenGL_on_a_Windows_Form.vcxproj -> C:\Users\Hassan\Desktop\Programs\Visual Studio 2017\source\DICOM2 project\OpenGL_on_a_Windows_FormNeil\OpenGL_on_a_Windows_Form\Debug\OpenGL_on_a_Windows_Form.exe
