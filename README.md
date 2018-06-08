@@ -3,7 +3,7 @@ Using OpenGL, managed C (C++ transformed by Microsoft to run bytecode on the .NE
 
 Credits to Divine Augustine who posted his tutorial as to how to render a single volumetric image using OpenGL with thorough explanations regarding the operations in each step of the process. His tutorial can be found here: https://www.codeproject.com/Articles/352270/Getting-started-with-Volume-Rendering
 
-If you decide to use your own DICOM files, make sure you convert them to a raw image file, this can be done so using imageJ (a Java image processing program which can display, analyze, and process images, download can be found here:https://imagej.nih.gov/ij/download.html).
+If you decide to use your own DICOM files, make sure you convert them to a raw image file, this can be done so using imageJ (a Java image processing program which can display, analyze, and process images, download can be found here: https://imagej.nih.gov/ij/download.html).
 
 To execute the program, first download the project "OpenGL_on_a_Windows_Form". Once the download is finished, open the download
 and then navigate to folder "Debug" -> "OpenGL_on_a_Windows_Form.exe"
